@@ -8,12 +8,12 @@ Initializing system configuration...
 visitor@github-portfolio:~$ cat /etc/profile.d/developer.json
 
 {
-  "user": "Your Name",
-  "alias": "yourusername",
-  "status": "Coding & Shipping 🚀",
-  "location": "Your City, Country",
-  "core_languages": ["JavaScript", "TypeScript", "Python", "Go"],
-  "frameworks": ["React", "Node.js", "Express", "Next.js"],
+  "user": "Muhammad Razi Imran",
+  "alias": "RaziImran",
+  "status": "Coding & Shipping",
+  "location": "Karachi, Pakistan",
+  "core_languages": ["JavaScript", "TypeScript", "Python"],
+  "frameworks": ["React", "Flask"],
   "tools": ["Git", "Docker", "VS Code", "Linux"]
 }
 
