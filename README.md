@@ -17,7 +17,7 @@ visitor@github-portfolio:~$ cat /etc/profile.d/developer.json
   "tools": ["Git", "Docker", "VS Code", "Linux"]
 }
 
-visitor@github-portfolio:~$ curl -s [https://api.github.com/users/yourusername/stats](https://api.github.com/users/yourusername/stats)
+visitor@github-portfolio:~$ curl -s [https://api.github.com/users/RaziImran/stats](https://api.github.com/users/RaziImran/stats)
 
 Status: Online & Ready to Collaborate
 Repositories: 15+ Public Repos
@@ -26,7 +26,7 @@ Focus: Full-Stack Development & Open Source
 visitor@github-portfolio:~$ ping -c 1 social-links.sh
 
 [+] CONNECTING TO CHANNELS:
- ├── [GitHub]    ---> [github.com/yourusername](https://github.com/yourusername)
+ ├── [GitHub]    ---> [github.com/yourusername](https://github.com/RaziImran)
  ├── [LinkedIn]  ---> [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
  └── [Website]   ---> yourwebsite.com
 
