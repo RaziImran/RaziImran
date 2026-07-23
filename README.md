@@ -3,7 +3,7 @@ Last login: Thu Jul 23 08:34:14 on ttys002
 visitor@github-portfolio:~$ ./load_profile.sh
 
 Initializing system configuration...
-[██████████████████████████████] 100% - Profile loaded successfully.
+[█ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █ █] 100% - Profile loaded successfully.
 
 visitor@github-portfolio:~$ cat /etc/profile.d/developer.json
 
@@ -26,9 +26,9 @@ Focus: Full-Stack Development & Open Source
 visitor@github-portfolio:~$ ping -c 1 social-links.sh
 
 [+] CONNECTING TO CHANNELS:
- ├── [GitHub]    ---> [github.com/yourusername](https://github.com/RaziImran)
+ ├── [GitHub]    ---> [github.com/RaziImran](https://github.com/RaziImran)
  ├── [Email]     ---> mrazi1mran@gmail.com
- ├── [LinkedIn]  ---> [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+ ├── [LinkedIn]  ---> https://www.linkedin.com/in/muhammad-razi-imran-516051419/   
  └── [Website]   ---> yourwebsite.com
 
 visitor@github-portfolio:~$ exit
