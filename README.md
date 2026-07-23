@@ -1,3 +1,4 @@
+Muhammad Razi Imran
 ```bash
 Last login: Thu Jul 23 08:34:14 on ttys002
 visitor@github-portfolio:~$ ./load_profile.sh
