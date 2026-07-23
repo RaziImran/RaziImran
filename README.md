@@ -27,6 +27,7 @@ visitor@github-portfolio:~$ ping -c 1 social-links.sh
 
 [+] CONNECTING TO CHANNELS:
  ├── [GitHub]    ---> [github.com/yourusername](https://github.com/RaziImran)
+ ├── [Email]     ---> mrazi1mran@gmail.com
  ├── [LinkedIn]  ---> [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
  └── [Website]   ---> yourwebsite.com
 
